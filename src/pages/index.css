@@ -1,0 +1,26 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.heading {
+  text-align: center;
+}
+
+td {
+  padding: 8px;
+}
+
+.track > li::marker {
+  content: counter(list-item) "› ";
+  color: black;
+}
+
+.subtrack > li {
+  list-style-type: circle;
+}
+
+.committee-list > li::marker {
+  content: counter(list-item) "› ";
+  color: black;
+}
