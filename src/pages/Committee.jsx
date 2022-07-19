@@ -160,6 +160,7 @@ function Committee() {
         <ul>
           <li>Dr. Shri Satish Chaturvedi</li>
           <li>Smt. Abha Chaturvedi</li>
+          <li>Shri .Dushyant Chaturvedi</li>
           <li>Smt. SheetalChaturvedi</li>
         </ul>
       </div>
