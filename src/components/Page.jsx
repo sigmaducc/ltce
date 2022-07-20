@@ -55,8 +55,13 @@ function Page() {
 }
 
 function NavLink({ name, route }) {
+  function BackDropListener() {
+    document.querySelector(".wrapper").classList.remove("active");
+    document.querySelector(".vertical_wrap").classList.add("abs");
+    console.log("backdrop");
+  }
   return (
-    <li>
+    <li onClick={BackDropListener}>
       <Link to={"/" + route}>
         <span className="text">{name}</span>
       </Link>
