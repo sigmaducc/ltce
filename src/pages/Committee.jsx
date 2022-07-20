@@ -148,15 +148,17 @@ function Committee() {
           </li>
         </ol>
       </div>
-
+      <br />
       <h2 className="text-2xl text-center pb-10">
         <b>Organizing Committee</b>
       </h2>
+      <br />
 
-      <div className="text-center pb-10">
-        <h2>
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
           <b>Chief Patrons</b>
-        </h2>
+        </div>
+        <br />
         <ul>
           <li>Dr. Shri Satish Chaturvedi</li>
           <li>Smt. Abha Chaturvedi</li>
@@ -165,128 +167,169 @@ function Committee() {
         </ul>
       </div>
 
-      <div className="text-center pb-10">
-        <h2>
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
           <b>Patron</b>
-        </h2>
-        <ul>
-          <li>
-            Dr. Vivek Sunnapawar Principal, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-          <li>
-          <i>Chairman, Board of Sudies (Mech. Engg.) ,University of Mumbai (UoM)</i>
-          </li>
-          
-        </ul>
-      </div>
-
-
-
-
-
-
-      <div className="text-center pb-10">
-        <h2>
-          <b>Conference Chairperson</b>
-        </h2>
-        <ul>
-          <li>
-          Dr.Subhash Shinde Vice Principal,Lokmanya Tilak College of Engineering,Navi Mumbai
-          </li>
-          <li>
-          <i>Member of BoS , Computer Engineering, University of Mumbai (UoM)</i>
-          </li>
-         
-        </ul>
-      </div>
-
-      <div className="text-center pb-10">
-        <h2>
-          <b>Organizing Chair</b>
-        </h2>
-        <div className="columns-2 gap-11">
+        </div>
+        <br />
+        <div>
+          <div className="text-lg text-black">Dr. Vivek Sunnapawar</div>
           <div>
-            <b> Prof.Smita Ambarkar</b> 
-            <br/>           
-            <i>Assistant Professor(CSE),Lokmanya Tilak College of Engineering Mumbai ,India</i>  
+            Principal, Lokmanya Tilak College of Engineering, Navi Mumbai
           </div>
           <div>
-            <b> Dr.Rajshree Rokade</b> 
-            <br/>           
-            <i>Assistant Professor (EXTC),Lokmanya Tilak College of Engineering Mumbai ,India</i>  
+            Chairman, Board of Studies (Mech. Engg.) ,University of Mumbai
           </div>
         </div>
       </div>
-      
 
-      <div className="text-center pb-10">
-        <h3>
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
+          <b>Conference Chairperson</b>
+        </div>
+        <br />
+        <div>
+          <div className="text-lg text-black">Dr.Subhash Shinde</div>
+          <div>
+            Vice Principal,Lokmanya Tilak College of Engineering,Navi Mumbai
+          </div>
+          <div>Member of BoS , Computer Engineering, University of Mumbai</div>
+        </div>
+      </div>
+
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
+          <b>Organizing Chair</b>
+        </div>
+        <br />
+        <div className="columns-2 gap-11">
+          <div>
+            <div className="text-lg text-black">Prof.Smita Ambarkar</div>
+            <div>
+              Assistant Professor (CSE), Lokmanya Tilak College of Engineering,
+              Navi Mumbai, India
+            </div>
+          </div>
+          <div>
+            <div className="text-lg text-black">Dr.Rajshree Rokade</div>
+            <div>
+              Assistant Professor (EXTC), Lokmanya Tilak College of Engineering,
+              Navi Mumbai ,India
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
           <b>Creative Committee</b>
-        </h3>
-        <ul>
-          <li>
-            Prof. Geetha G, Assistant Professor, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-          <li>
-            Prof.Madhuri Samual, Assistant Professor, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-        </ul>
+        </div>
+        <br />
+
+        <div className="columns-2 gap-11">
+          <div>
+            <h1 className="text-lg text-black">Prof. Geetha G</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+          <div>
+            <h1 className="text-lg text-black">Prof.Madhuri Samual</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+        </div>
       </div>
-      <div className="text-center pb-10">
-        <h3>
+
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
           <b> Technical Committee</b>
-        </h3>
-        <ul>
-          <li>
-            Dr.Shilpa Kapse, Assistant Professor, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-          <li>
-            Prof. Swati Chaudhary, Assistant Professor, Lokmanya Tilak College
-            of Engineering, Navi Mumbai
-          </li>
-          <li>
-            Prof. Chaitrali Chaudhari, Assistant Professor, Lokmanya Tilak
-            College of Engineering, Navi Mumbai
-          </li>
-          <li>
-            Prof. Snehal Junnarkar, Assistant Professor, Lokmanya Tilak College
-            of Engineering, Navi Mumbai
-          </li>
-        </ul>
+        </div>
+        <br />
+
+        <div className="columns-2 gap-11">
+          <div>
+            <h1 className="text-lg text-black">Dr. Shilpa Kapse</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+          <div>
+            <h1 className="text-lg text-black">Prof. Swati Chaudhary</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+        </div>
+        <br />
+
+        <div className="columns-2 gap-11">
+          <div>
+            <h1 className="text-lg text-black">Prof. Chaitrali Chaudhari</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+          <div>
+            <h1 className="text-lg text-black">Prof. Snehal Junnarkar</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+        </div>
       </div>
-      <div className="text-center pb-10">
-        <h3>
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
           <b>Publicity Comittee</b>
-        </h3>
-        <ul>
-          <li>
-            Prof. K. V. Nimmi, Assistant Professor,Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-          <li>
-            Prof. Trupti Harhare, Assistant Professor, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-        </ul>
+        </div>
+        <br />
+
+        <div className="columns-2 gap-11">
+          <div>
+            <h1 className="text-lg text-black">Prof. K. V. Nimmi</h1>
+            <div>
+              Assistant Professor,Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+          <div>
+            <h1 className="text-lg text-black">Prof. Trupti Harhare</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+        </div>
       </div>
-      <div className="text-center pb-10">
-        <h3>
+
+      <div className="text-center text-lg text-gray-600 pb-10">
+        <div className="text-black">
           <b>Sponsorship and Finanace Comittee</b>
-        </h3>
-        <ul>
-          <li>
-            Prof,Shruti Nema,Assistant Professor,Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-          <li>
-            Prof.Rakhi Akhare ,Assistant Professor, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
-          </li>
-        </ul>
+        </div>
+        <br />
+        <div className="columns-2 gap-11">
+          <div>
+            <h1 className="text-lg text-black">Prof. Shruti Nema</h1>
+            <div>
+              Assistant Professor,Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+          <div>
+            <h1 className="text-lg text-black">Prof. Rakhi Akhare</h1>
+            <div>
+              Assistant Professor, Lokmanya Tilak College of Engineering, Navi
+              Mumbai, India
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
