@@ -154,35 +154,72 @@ function Committee() {
       </h2>
 
       <div className="text-center pb-10">
-        <h3>
+        <h2>
           <b>Chief Patrons</b>
-        </h3>
+        </h2>
         <ul>
           <li>Dr. Shri Satish Chaturvedi</li>
           <li>Smt. Abha Chaturvedi</li>
+          <li>Shri .Dushyant Chaturvedi</li>
           <li>Smt. SheetalChaturvedi</li>
         </ul>
       </div>
 
       <div className="text-center pb-10">
-        <h3>
-          <b>Convener</b>
-        </h3>
+        <h2>
+          <b>Patron</b>
+        </h2>
         <ul>
           <li>
             Dr. Vivek Sunnapawar Principal, Lokmanya Tilak College of
             Engineering, Navi Mumbai
           </li>
           <li>
-            Dr.Subhash Shinde Vice Principal, Lokmanya Tilak College of
-            Engineering, Navi Mumbai
+          <i>Chairman, Board of Sudies (Mech. Engg.) ,University of Mumbai (UoM)</i>
           </li>
-          <li>
-            Organizing Chair-Prof. Smita Ambarkar Assistant Professor, Lokmanya
-            Tilak College of Engineering, Navi Mumbai
-          </li>
+          
         </ul>
       </div>
+
+
+
+
+
+
+      <div className="text-center pb-10">
+        <h2>
+          <b>Conference Chairperson</b>
+        </h2>
+        <ul>
+          <li>
+          Dr.Subhash Shinde Vice Principal,Lokmanya Tilak College of Engineering,Navi Mumbai
+          </li>
+          <li>
+          <i>Member of BoS , Computer Engineering, University of Mumbai (UoM)</i>
+          </li>
+         
+        </ul>
+      </div>
+
+      <div className="text-center pb-10">
+        <h2>
+          <b>Organizing Chair</b>
+        </h2>
+        <div className="columns-2 gap-11">
+          <div>
+            <b> Prof.Smita Ambarkar</b> 
+            <br/>           
+            <i>Assistant Professor(CSE),Lokmanya Tilak College of Engineering Mumbai ,India</i>  
+          </div>
+          <div>
+            <b> Dr.Rajshree Rokade</b> 
+            <br/>           
+            <i>Assistant Professor (EXTC),Lokmanya Tilak College of Engineering Mumbai ,India</i>  
+          </div>
+        </div>
+      </div>
+      
+
       <div className="text-center pb-10">
         <h3>
           <b>Creative Committee</b>
