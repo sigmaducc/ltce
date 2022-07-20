@@ -1,9 +1,19 @@
-import Sidebar from "./components/Sidebar";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Sidebar, Content } from "./components";
+import "./App.css";
+
 function App() {
   return (
-    <div className="App">
-      <Sidebar />
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <div className="wrapper">
+          <div className="wrapper_inner">
+            <Sidebar />
+            <Content />
+          </div>
+        </div>
+      </div>
+    </BrowserRouter>
   );
 }
 
