@@ -182,7 +182,7 @@ body {
     position: absolute;
     top: 0;
     left: -100%;
-    /* transition: left 0.2s linear; */
+    transition: left 0.2s linear;
   }
   .vertical_wrap .backdrop {
     position: absolute;
@@ -204,7 +204,7 @@ body {
   }
   .wrapper.active .vertical_bar {
     left: 0;
-    /* transition: left 0.2s linear; */
+    transition: left 0.2s linear;
   }
 }
 
