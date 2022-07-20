@@ -62,7 +62,7 @@ function NavLink({ name, route }) {
   }
   return (
     <li onClick={BackDropListener}>
-      <Link to={"/" + route}>
+      <Link to={route}>
         <span className="text">{name}</span>
       </Link>
     </li>
