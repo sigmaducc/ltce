@@ -287,7 +287,7 @@ function Committee() {
       </div>
       <div className="text-center text-lg text-gray-600 pb-10">
         <div className="text-black">
-          <b>Publicity Comittee</b>
+          <b>Publicity Committee</b>
         </div>
         <br />
 
@@ -311,10 +311,10 @@ function Committee() {
 
       <div className="text-center text-lg text-gray-600 pb-10">
         <div className="text-black">
-          <b>Sponsorship and Finanace Comittee</b>
+          <b>Sponsorship and Finanace Committee</b>
         </div>
         <br />
-        <div className="columns-2 gap-11">
+        <div className="columns-2 gap-10">
           <div>
             <h1 className="text-lg text-black">Prof. Shruti Nema</h1>
             <div>
