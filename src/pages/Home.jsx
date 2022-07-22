@@ -10,10 +10,10 @@ function Home() {
       </h1>
       <br />
       <p>
-        ICRMIR 2024 is the First International conference on Multidisciplinary
+        ICRMIR 2023 is the First International conference on Multidisciplinary
         Research and Innovation organized by Lokmanya Tilak College of
-        Engineering .It will be held on _17th-18th March 2024. The primary goal
-        of ICRMIR 2024 is to provide a forum for researchers, academicians, and
+        Engineering .It will be held on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>17th-18th March 2023</b>. The primary goal
+        of ICRMIR 2023 is to provide a forum for researchers, academicians, and
         industry professionals from around the world to present their research
         which will help in creation of the innovation which will ultimately
         benefit the society as a whole.
