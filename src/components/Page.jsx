@@ -18,7 +18,9 @@ function Page() {
                 />
               </div>
               <p className="title">Lokmanya Tilak College of Engineering</p>
-              <p className="sub_title mt-4">Credits to NRSA Devs</p>
+              <p className="mt-4 text-base text-white font-medium">
+                Credits to Adnan, Nitesh, Shubham and Rushi
+              </p>
             </div>
             <ul className="menu">
               <NavLink name="Home" route="" />
