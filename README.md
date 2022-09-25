@@ -6,7 +6,7 @@ Install all the dependencies by running this command
 
 ```
 git clone https://github.com/sigmaducc/ltce.git && cd ltce
-yarn add
+yarn install
 ```
 
 ## Usage
