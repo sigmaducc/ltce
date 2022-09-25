@@ -16,23 +16,23 @@ function Registration_Details() {
           </tr>
           <tr>
             <td>Student</td>
-            <td>1000Rs</td>
-            <td>25$</td>
+            <td>1000INR</td>
+            <td>25USD</td>
           </tr>
           <tr>
             <td>Research Scholars</td>
-            <td>1200Rs</td>
-            <td>30$</td>
+            <td>1200INR</td>
+            <td>30USD</td>
           </tr>
           <tr>
             <td>Academicians</td>
-            <td>1500Rs</td>
-            <td>50$</td>
+            <td>1500INR</td>
+            <td>50USD</td>
           </tr>
           <tr>
             <td>Industrialist</td>
-            <td>2000Rs</td>
-            <td>60$</td>
+            <td>2000INR</td>
+            <td>60USD</td>
           </tr>
         </table>
       </div>
