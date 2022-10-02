@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import {
   Home,
   About,
@@ -7,8 +7,9 @@ import {
   Schedule,
   Speaker,
   Call_for_Papers,
+  Submissions,
 } from "../pages";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 import "../App.css";
 
 function Content() {
@@ -31,11 +32,14 @@ function Content() {
         </div>
         <div className="logo">
           ICRMIR - <span>23</span>
+          {/* 1ST INTERNATIONAL CONFERENCE ON RECENT TRENDS IN MULTIDISCIPLINARY
+          RESEARCH AND INNOVATION - <span>ICRMIR-23</span> */}
         </div>
       </div>
       <div className="content" onClick={BackDropListener}>
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/" exact element={<Navigate to="/home" />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/about" exact element={<About />} />
           <Route
             path="/registration-details"
@@ -46,6 +50,7 @@ function Content() {
           <Route path="/speaker" exact element={<Speaker />} />
           <Route path="/committee" exact element={<Committee />} />
           <Route path="/call-for-papers" exact element={<Call_for_Papers />} />
+          <Route path="/submissions" exact element={<Submissions />} />
         </Routes>
       </div>
     </div>

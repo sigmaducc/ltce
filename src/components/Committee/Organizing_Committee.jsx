@@ -68,7 +68,6 @@ function Organizing_Committee() {
           <div>
             Vice Principal, Lokmanya Tilak College of Engineering, Navi Mumbai
           </div>
-          <div>Member of BoS, Computer Engineering, University of Mumbai</div>
         </div>
       </div>
 
