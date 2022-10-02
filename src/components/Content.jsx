@@ -16,12 +16,12 @@ function Content() {
   function HamburgerListener() {
     document.querySelector(".wrapper").classList.add("active");
     document.querySelector(".vertical_wrap").classList.remove("abs");
-    console.log("hamburger");
+    // console.log("hamburger");
   }
   function BackDropListener() {
     document.querySelector(".wrapper").classList.remove("active");
     document.querySelector(".vertical_wrap").classList.add("abs");
-    console.log("backdrop");
+    // console.log("backdrop");
   }
 
   return (

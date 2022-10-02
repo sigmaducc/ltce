@@ -1,5 +1,6 @@
 import React from "react";
 import { Content } from "./index";
+import { Link } from "react-router-dom";
 import "../App.css";
 
 function Page() {
@@ -60,13 +61,12 @@ function NavLink({ name, route }) {
   function BackDropListener() {
     document.querySelector(".wrapper").classList.remove("active");
     document.querySelector(".vertical_wrap").classList.add("abs");
-    console.log("backdrop");
   }
   return (
     <li onClick={BackDropListener}>
-      <a href={route}>
+      <Link to={route}>
         <span className="text">{name}</span>
-      </a>
+      </Link>
     </li>
   );
 }
