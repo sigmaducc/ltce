@@ -3,7 +3,7 @@ import "./index.css";
 
 function Home() {
   return (
-    <div className="p-4 text-gray-700 text-lg">
+    <div className="p-4 text-gray-700 text-lg h-full overflow-hidden">
       <h1 className="text-4xl text-center pb-8 text-black">
         1st International Conference on Recent Trends in Multidisciplinary
         Research and Innovation

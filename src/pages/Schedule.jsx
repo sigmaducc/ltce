@@ -2,7 +2,7 @@ import React from "react";
 
 function Schedule() {
   return (
-    <div className="p-4 text-gray-700 text-lg">
+    <div className="p-4 text-gray-700 text-lg h-full overflow-hidden">
       <h1 className="text-4xl text-center pb-4 text-black">Schedule</h1>{" "}
       <table className="m-auto mt-8 w-full" border="1">
         <tr>

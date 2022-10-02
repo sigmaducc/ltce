@@ -14,7 +14,7 @@ import {
 import "./index.css";
 function Committee() {
   return (
-    <div className="p-4 text-gray-700 text-lg h-full overflow-auto">
+    <div className="p-4 text-gray-700 text-lg h-full">
       <h1 className="text-5xl text-center pb-12 text-gray-800">
         Advisory Committee
       </h1>

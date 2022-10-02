@@ -25,7 +25,7 @@ function Content() {
   }
 
   return (
-    <div className="main_container">
+    <div className="main_container  overflow-hidden">
       <div className="top_bar">
         <div className="hamburger" onClick={HamburgerListener}>
           <i className="fas fa-bars"></i>

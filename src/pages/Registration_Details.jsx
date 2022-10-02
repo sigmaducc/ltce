@@ -2,7 +2,7 @@ import React from "react";
 
 function Registration_Details() {
   return (
-    <div className="p-4 text-gray-700 text-lg">
+    <div className="p-4 text-gray-700 text-lg h-full overflow-hidden">
       <h1 className="text-4xl text-center pb-8 text-black">
         Registration Details
       </h1>
