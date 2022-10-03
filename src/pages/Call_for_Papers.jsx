@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 function Call_for_Papers() {
   return (
-    <div className="p-4 text-gray-700 text-lg h-full overflow-hidden">
+    <div className="p-4 text-gray-700 text-lg h-full md:overflow-hidden">
       <h1 className="text-4xl text-center pb-10 text-black">Call for Papers</h1>{" "}
       <div className="pb-10">
         Authors are cordially invited to contribute their original and
