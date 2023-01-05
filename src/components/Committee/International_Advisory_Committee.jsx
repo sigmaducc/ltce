@@ -8,6 +8,7 @@ function International_Advisory_Committee() {
       </h2>
 
       <ol className="committee-list pl-8">
+
         <li>Dr.Santosh Walke,National University of Science and Technology,Muscat Oman</li>
         <li>Dr. Abhijit Sunnapwar, Professor, The University of Texas, TX, USA</li>
         <li>Dr Joanna Rosak, Szyrocka Czestochowa University of Technology, Poland</li>
