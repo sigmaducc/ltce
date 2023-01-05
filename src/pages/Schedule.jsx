@@ -7,19 +7,19 @@ function Schedule() {
       <table className="m-auto mt-8 w-full" border="1">
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>January 5 ,2023</td>
+          <td>January 31 ,2023</td>
         </tr>
         <tr>
           <td>Acceptance notification</td>
-          <td>January 25 ,2023</td>
+          <td>February 15 ,2023</td>
         </tr>
         <tr>
           <td>Registration Deadline</td>
-          <td>February 7, 2023</td>
+          <td>February 25, 2023</td>
         </tr>
         <tr>
           <td>Camera ready paper Submission</td>
-          <td>February 21,2023</td>
+          <td>March 1,2023</td>
         </tr>
         <tr>
           <td>Conference</td>
