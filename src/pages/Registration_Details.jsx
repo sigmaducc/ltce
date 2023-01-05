@@ -39,7 +39,7 @@ function Registration_Details() {
       <div className="mt-14">
         <h2 className="text-2xl font-semibold text-center pb-6">Publication</h2>
         <p>
-          All the selected papers will be published in International Journal of
+          All the selected best papers will be published in International Journal of
           Digital Litercy and Digital Competence.
         </p>
         <div className="mt-10 flex flex-row justify-evenly items-center cursor-pointer">
